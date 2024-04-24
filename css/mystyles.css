@@ -1,0 +1,7 @@
+ul{
+    list-style-position:inside;
+    text-align: left;
+}
+.display-inline{
+    display: inline-block;
+}
